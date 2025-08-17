@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class lab0file2 {
         public static void main(String[] args) {
                 Scanner scan = new Scanner(System.in);
